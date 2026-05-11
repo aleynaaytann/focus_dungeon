@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885211144122",
+    "project_id": "focus-dungeon",
+    "storage_bucket": "focus-dungeon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885211144122:android:b876837b6a5a3b08770783",
+        "android_client_info": {
+          "package_name": "com.aleyna.focus_dungeon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_gHRiJ1DQiX2k0-09jcNwk4NvYDR9qS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
