@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-ppackage="com.aleyna.focus_dungeon">
+    package="com.aleyna.focus_dungeon">
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:label="focus_dungeon"
         android:name="${applicationName}"
